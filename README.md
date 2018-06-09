@@ -7,7 +7,7 @@
 >A script that automatically crawls the data of DaLeTou and ShuangSeQiu lottery on Debian system.
 
 ## 1. 如何使用？
-1) 首先在服务器上安装*debian 8.2(64位)*操作系统
+1) 首先在服务器上安装* debian 8.2(64位) *操作系统
 2) 用FTP上传*lotterygraber*或者用wget的方式，把脚本文件传到服务器上：
 ```sh
 wget "https://github.com/BEWINDOWEB/lotterygrabber/archive/master.zip"
