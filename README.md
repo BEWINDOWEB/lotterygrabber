@@ -49,9 +49,7 @@ chmod +x .sh
 
 ## 2. HOW CAN I KOWN THAT I HAVE INSTALLED LNMP SUCCESSFULLY?
 1) If the installation is successful, the `lotterydata` directory will be generated under the lotterygrabber directory.
-2) 
-脚本会在星期1、3、6晚上23:00爬取中国体育彩票超级大乐透开奖号码，在星期2、4、7晚上23:00爬取中国福利彩票双色球开奖号码。数据存放在`lotterydata`目录下，样例：
-The script will climb the Chinese sports lottery super lottery number at 23:00 on 1, 3, and 6 nights, and crawl the Chinese welfare lottery double color ball award number on week 2, 4 and 7 at 23:00 p.m. The data is stored in the `lotterydata` directory, sample:
+2) The script will climb the Chinese sports lottery super lottery number at 23:00 on 1, 3, and 6 nights, and crawl the Chinese welfare lottery double color ball award number on week 2, 4 and 7 at 23:00 p.m. The data is stored in the `lotterydata` directory, sample:
 ```
 2018-03-14:18028,04,19,25,30,35,04,07
 2018-03-15:18029,03,09,21,25,29,01,08
