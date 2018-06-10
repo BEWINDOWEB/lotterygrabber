@@ -32,7 +32,7 @@ chmod +x bwb_lottery_main.sh
 ```
 ## 3.其他
 想要用机器学习去研究彩票，发现很多网站只提供近500期的数据，那么从现在开始，每天都爬取一下以后万一想用了呢。<br>
-欢迎提交issues,个人网站[www.bewindoweb.com](http://www.bewindoweb.com) 或者 [www.bewindoweb.cn](http://www.bewindoweb.cn)
+欢迎提交issues,代码原理已经发布在个人博客[《用Python简单爬取双色球开奖信息（升级版）》](http://www.bewindoweb.com/196.html) 上了。
 
 		
 ## 1. HOW TO USE?
@@ -60,4 +60,4 @@ chmod +x bwb_lottery_main.sh
 ```
 ## 3.at last
 I want to study the lottery by machine learning, and find that many websites offer only 500 periods of data. so from now on, crawling it every day in case i want to use it in the future. <br>
-welcome to propose issues, and forgive me for poor English, my website is [www.bewindoweb.com](http://www.bewindoweb.com) or [www.bewindoweb.cn](http://www.bewindoweb.cn)
+welcome to propose issues, and forgive me for poor English.The code principle is writed in personal blog article[《用Python简单爬取双色球开奖信息（升级版）》](http://www.bewindoweb.com/196.html)
