@@ -1,4 +1,4 @@
-# automatically install LNMP environment in debian 8 on the tencent cloud
+# lotterygrabber
 ![通过测试](https://img.shields.io/badge/build-passing-green.svg)
 ![系统需要debian8.2 64位](https://img.shields.io/badge/debian-8.2(64%20bit)-orange.svg)
 ![python2.7](https://img.shields.io/badge/python-2.7-blue.svg)
@@ -39,7 +39,7 @@ chmod +x bwb_lottery_main.sh
 1) First, install the *Debian 8.2 (64 bit)* operating system on the server.
 2) Upload the *lotterygraber* with FTP OR use
 ```sh
-wget "https://github.com/BEWINDOWEB/lotterygrabber.git"
+wget "https://github.com/BEWINDOWEB/lotterygrabber/archive/master.zip"
 ```
 3) run the shell
 ```sh
