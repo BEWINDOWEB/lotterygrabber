@@ -30,11 +30,8 @@ chmod +x bwb_lottery_main.sh
 2018-03-21:18032,07,10,17,32,35,05,12
 2018-03-23:18032,07,10,17,32,35,05,12
 ```
-## 3.其他
-想要用机器学习去研究彩票，发现很多网站只提供近500期的数据，那么从现在开始，每天都爬取一下以后万一想用了呢。<br>
-欢迎提交issues,代码原理已经发布在个人博客[《用Python简单爬取双色球开奖信息（升级版）》](http://www.bewindoweb.com/196.html) 上了。
 
-		
+
 ## 1. HOW TO USE?
 1) First, install the *Debian 8.2 (64 bit)* operating system on the server.
 2) Upload the *lotterygraber* with FTP OR use
@@ -58,6 +55,3 @@ chmod +x bwb_lottery_main.sh
 2018-03-21:18032,07,10,17,32,35,05,12
 2018-03-23:18032,07,10,17,32,35,05,12
 ```
-## 3.at last
-I want to study the lottery by machine learning, and find that many websites offer only 500 periods of data. so from now on, crawling it every day in case i want to use it in the future. <br>
-welcome to propose issues, and forgive me for poor English.The code principle is writed in personal blog article[《用Python简单爬取双色球开奖信息（升级版）》](http://www.bewindoweb.com/196.html)
